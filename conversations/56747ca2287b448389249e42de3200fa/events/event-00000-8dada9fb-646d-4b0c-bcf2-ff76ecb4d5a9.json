@@ -1,0 +1,1 @@
+{"id":"8dada9fb-646d-4b0c-bcf2-ff76ecb4d5a9","timestamp":"2026-09-15T09:39:46.778352","source":"user","llm_message":{"role":"user","content":[{"cache_prompt":false,"type":"text","text":"Add a CONTRIBUTING.md explaining how to run the tests."}],"thinking_blocks":[]},"activated_skills":[],"extended_content":[],"kind":"MessageEvent"}

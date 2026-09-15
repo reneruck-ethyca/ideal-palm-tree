@@ -1,0 +1,8 @@
+{
+  "command": "set -e; rm -rf /tmp/olympus-clone; git clone --depth 1 -b main https://github.com/reneruck-ethyca/ideal-palm-tree /tmp/olympus-clone; mkdir -p /workspace; cp -a /tmp/olympus-clone/. /workspace/; rm -rf /tmp/olympus-clone; cd /workspace; git checkout -b olympus/task-07cc92f1; git config user.email olympus@local; git config user.name olympus 2>&1",
+  "cwd": null,
+  "timeout": 30,
+  "id": "a2be1a067f1249069bfab9484a6d2769",
+  "timestamp": "2026-09-15T09:39:45.879124Z",
+  "kind": "BashCommand"
+}

@@ -1,0 +1,1 @@
+{"id":"4ed664e9-45f3-4880-b64f-11ed545fed56","timestamp":"2026-09-15T09:39:54.818439","source":"agent","parent_id":"9afe079b-ec43-401b-8fa2-9a740ce2292b","tool_call_id":"toolu_011noqTKNeVV85jh3vG6CJ6F","title":"Read File","status":"pending","tool_kind":"read","raw_input":{},"is_error":false,"kind":"ACPToolCallEvent"}

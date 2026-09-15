@@ -1,0 +1,24 @@
+{
+  "firstStartTime": "2026-09-15T09:39:47.132Z",
+  "machineID": "dd70567db0b4aae4f327453e177a7e4ec6730a32974647791901f2d496ff6a03",
+  "opusProMigrationComplete": true,
+  "sonnet1m45MigrationComplete": true,
+  "seenNotifications": {},
+  "hasResetAutoModeOptInForDefaultOffer": true,
+  "migrationVersion": 13,
+  "userID": "5ba051eda8077677d2c72abc702c7e3911bfee30d65695a5f6fe7c9464fb384b",
+  "projects": {
+    "/workspace": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "hasUnseenTeamArtifacts": false
+    }
+  }
+}
