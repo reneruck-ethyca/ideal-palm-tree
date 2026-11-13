@@ -1,0 +1,8 @@
+on: pull_request
+jobs:
+  boom:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo before-step
+      - run: echo exploding-step; exit 1
+      - run: echo never
